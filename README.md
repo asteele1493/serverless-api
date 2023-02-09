@@ -23,4 +23,4 @@ Overview: Create a serverless REST API
     - returns an empty object.
 - CRUD Operation Handlers: Lambda Functions
 
-![Whiteboard]()
+[Whiteboard](https://www.figma.com/file/16jlh3WyzwwVHET2OqpAB1/Lab-18%3A-AWS-API-Gateway%2C-Lambda%2C-DynamoDB?node-id=0%3A1&t=2Au8oOQc7WRfFoHt-1)
